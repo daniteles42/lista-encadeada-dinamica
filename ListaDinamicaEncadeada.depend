@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616983413 source:c:\users\danit\documents\czin\listadinamicaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadeada.h"
+
+1616962087 c:\users\danit\documents\czin\listadinamicaencadeada\listadinencadeada.h
+
+1616983537 source:c:\users\danit\documents\czin\listadinamicaencadeada\listadinencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadeada.h"
+
